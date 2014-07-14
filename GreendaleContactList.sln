@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreendaleContactList", "GreendaleContactList\GreendaleContactList.csproj", "{A172FF25-E7A2-473A-81C8-D960CD04012C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A172FF25-E7A2-473A-81C8-D960CD04012C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A172FF25-E7A2-473A-81C8-D960CD04012C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A172FF25-E7A2-473A-81C8-D960CD04012C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A172FF25-E7A2-473A-81C8-D960CD04012C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

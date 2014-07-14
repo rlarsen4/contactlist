@@ -1,0 +1,67 @@
+﻿body 
+{
+    width:90%;
+    background-color:silver;
+}
+
+.logo {
+    height: 100px;
+    width: 104px;
+}
+
+.main 
+{
+    overflow: hidden;
+}
+.chairs
+{
+    float: left; 
+}
+.right{
+    float: right;
+    text-align: right;
+    border: 1px solid #000;
+}
+
+h1
+{
+    background-color:Blue;
+    color:White;
+    font-family:Sans-Serif;
+}
+
+h2
+{
+    color:Blue;
+    font-family:Sans-Serif;
+}
+
+h3
+{
+    background-color:Blue;
+    color:White;
+    font-family:Sans-Serif;
+}
+
+img
+{
+    float:right;
+}
+
+grid
+{
+    font-size:small;    
+}
+
+right   
+{
+    text-align:right;
+    
+    font-size:small;    
+}
+
+frmValid
+{
+    color:Red;
+    font-weight:bold;
+}
